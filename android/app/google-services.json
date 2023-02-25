@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991513449866",
+    "project_id": "gaming-zone-97532",
+    "storage_bucket": "gaming-zone-97532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991513449866:android:eb67de4cb9d9bea6122473",
+        "android_client_info": {
+          "package_name": "com.poojasharma.we_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991513449866-gvqull1kgm2vaj5jqout98duoe4urgm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8fYV4zbEO5Wuh9Rwb4i82hTtcc3Aw-QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991513449866-gvqull1kgm2vaj5jqout98duoe4urgm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
